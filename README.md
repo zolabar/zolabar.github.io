@@ -1,4 +1,3 @@
-# zolabar projects
 
 **Conformal-Maps: Code for interactive conformal mapping with python and jupyter notebook**
 
