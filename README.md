@@ -7,7 +7,7 @@
 
 [https://github.com/zolabar/trendPy](https://github.com/zolabar/trendPy)
 
-**IexFinder: Interactive calculation of extreme values with Python**
+**IexFinder: Interactive symbolic calculation of extreme values with Python**
 
 [https://github.com/zolabar/IexFinder](https://github.com/zolabar/IexFinder)
 
