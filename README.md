@@ -18,7 +18,9 @@
 
 [https://github.com/zolabar/IexFinder](https://github.com/zolabar/IexFinder)
 
+**FEM: 1D Finite Element Method Example**
 
+https://github.com/zolabar/FEM
 
 
 
