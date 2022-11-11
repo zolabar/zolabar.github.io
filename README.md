@@ -20,7 +20,7 @@
 
 **FEM: 1D Finite Element Method Example**
 
-[https://github.com/zolabar/FEM](https://github.com/zolabar/FEM)
+[https://zolabar.github.io/FEM/](https://zolabar.github.io/FEM/)
 
 
 
